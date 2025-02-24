@@ -1,1 +1,1 @@
-# spoty
+# zotify
